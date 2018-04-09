@@ -1,5 +1,3 @@
 
 # TUBI DApp
-base on  Origin project
-
-      "events": {},
+base on  Origin project,Using the Ethereum blockchain and Interplanetary File System (IPFS)
